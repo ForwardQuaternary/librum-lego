@@ -1,7 +1,7 @@
 # librum-lego
 
-Contents
+## Contents
 - [Fiction](#fiction)
 
 ## Fiction
-1.  奥诺雷·德·巴尔扎克（婚约）
+1. 奥诺雷·德·巴尔扎克（婚约、禁治产）
